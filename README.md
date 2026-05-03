@@ -7,7 +7,7 @@ UTube is a full-featured video-sharing application modeled after YouTube, develo
 - Fully developed client-side applications for web (React) and Android platforms
 
 This project is split into 4 main folders:
-1. C++ server (current branch)
+1. C++ server
 2. Node.js server 
 3. Web client-side (React)
 4. Android client-side
