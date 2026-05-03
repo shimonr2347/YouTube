@@ -1,9 +1,9 @@
-# UTUBE_Android
+# Yo YouTube_Android
 
-Welcome to the UTube Android branch, a key component of the UTube app developed as part of an Advanced System Programming course at Bar-Ilan University. This repository holds the server-side code that powers our UTube application, which simulates a simplified version of a video streaming service where users can watch, like, and comment on videos.
+Welcome to the YouTube Android branch, a key component of theYo YouTube app developed as part of an Advanced System Programming course at Bar-Ilan University. This repository holds the server-side code that powers ourYo YouTube application, which simulates a simplified version of a video streaming service where users can watch, like, and comment on videos.
 
 ## Full Project Details
-For full details on the entire UTube project, including the Android app, React web app, and C++ server, please skip this README.md and refer to the wiki pages located inside the nodeJS_server branch's wiki folder or on the wiki page of the entire repository.
+For full details on the entireYo YouTube project, including the Android app, React web app, and C++ server, please skip this README.md and refer to the wiki pages located inside the nodeJS_server branch's wiki folder or on the wiki page of the entire repository.
 
 ## Getting Started
 
@@ -16,7 +16,7 @@ development and testing purposes. Follow these simple steps to get started.
 
 1. Ensure you have Android Studio installed on your computer. If not, download and install it
    from [Android Studio's official website](https://developer.android.com/studio).
-2. Make sure you have the UTUBE-Server barnch server_task3 set up and running. If not, follow the
+2. Make sure you have theYo YouTube-Server barnch server_task3 set up and running. If not, follow the
    instructions in the server's README to set it up.
 
 ### Setting up the Project
@@ -24,8 +24,9 @@ development and testing purposes. Follow these simple steps to get started.
 1. **Clone the Repository**
    Open your terminal and run the following command:
    ```bash
-   git clone https://github.com/Yedpel/android_task_4
-   cd UTube_Android
+   git clone https://github.com/shimonr2347/YouTube.git
+   cd YouTube_Portfolio
+   cd Android_Client
 
 2. **Open the Project in Android Studio**
     - Open Android Studio. On the welcome screen, select Open an Existing Project or
@@ -53,9 +54,9 @@ development and testing purposes. Follow these simple steps to get started.
 - If the app cannot connect to the server, double-check that the server is running
   and that the BASE_URL in the app's configuration is correct. Also, ensure that your firewall
   is not blocking the connection.
-- For any server-related issues, refer to the UTUBE-Server README for troubleshooting steps.
+- For any server-related issues, refer to theYo YouTube-Server README for troubleshooting steps.
   **Contributing**
-  We welcome contributions to improve the UTUBE Android app. Feel free to fork the repository,
+  We welcome contributions to improve theYo YouTube Android app. Feel free to fork the repository,
   make your changes, and submit a pull request.
 
 ---
