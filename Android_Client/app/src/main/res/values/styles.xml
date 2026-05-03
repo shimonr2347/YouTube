@@ -1,0 +1,60 @@
+<resources>
+
+    <!-- Base application theme -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:icon">@mipmap/ic_launcher</item>
+        <!-- Customize your theme here -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColorPrimary">@color/colorPrimaryText</item>
+        <item name="android:textColorSecondary">@color/colorSecondaryText</item>
+        <item name="android:windowBackground">@color/windowBackground</item>
+        <item name="android:buttonStyle">@style/Widget.AppCompat.Button</item>
+    </style>
+
+    <!-- Light theme -->
+    <style name="AppTheme_Light" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/my_light_primary</item>
+        <item name="colorPrimaryDark">@color/my_light_primary_variant</item>
+        <item name="colorAccent">@color/my_light_secondary</item>
+        <item name="android:textColorPrimary">@color/my_light_on_background</item>
+        <item name="android:textColorSecondary">@color/my_light_on_background</item>
+        <item name="android:windowBackground">@color/my_light_background</item>
+        <item name="android:buttonStyle">@style/Widget.AppCompat.Button</item>
+    </style>
+
+    <!-- Dark theme -->
+    <style name="AppTheme_Dark" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/my_dark_primary</item>
+        <item name="colorPrimaryDark">@color/my_dark_primary_variant</item>
+        <item name="colorAccent">@color/my_dark_secondary</item>
+        <item name="android:textColorPrimary">@color/my_dark_on_background</item>
+        <item name="android:textColorSecondary">@color/my_dark_on_background</item>
+        <item name="android:windowBackground">@color/my_dark_background</item>
+        <item name="android:buttonStyle">@style/Widget.AppCompat.Button</item>
+        <item name="colorOnBackground">@color/my_dark_on_background</item>
+    </style>
+
+    <!-- Dialog theme -->
+    <style name="AppTheme_Dialog" parent="Theme.AppCompat.DayNight.Dialog.Alert">
+        <item name="android:background">?attr/android:windowBackground</item>
+        <item name="android:textColorPrimary">?attr/colorOnBackground</item>
+    </style>
+
+    <!-- Custom style for popup menu items -->
+    <style name="PopupMenuItemStyle" parent="">
+        <item name="android:textColor">#D31E1E</item> <!-- Custom text color -->
+        <item name="android:background">#2196F3</item> <!-- Custom background color -->
+    </style>
+
+    <!-- Custom DatePickerDialog style -->
+    <style name="CustomDatePickerDialog" parent="Theme.AppCompat.Dialog">
+        <item name="android:background">#2196F3</item> <!-- Custom background color -->
+        <item name="android:textColorPrimary">#D31E1E</item> <!-- Custom text color -->
+    </style>
+
+
+
+
+</resources>

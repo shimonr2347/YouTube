@@ -1,0 +1,241 @@
+/* DarkMode.css */
+
+
+.dark-mode1 {
+    background-color: #202021 !important;
+}
+
+.dark-mode .header{
+    background-color: black !important;
+}
+
+.dark-mode .video-page{
+    background-color: black!important;
+}
+.dark-mode .youtube-logo .bi-youtube{
+    color: white !important;
+}
+
+.dark-mode .youtube-logo .bi-youtube:hover{
+       color: #d83636 !important;
+
+}
+.dark-mode .comment{
+    /* background-color: #000 !important; */
+    color: white !important;
+}
+.dark-mode .msg,
+.dark-mode .utbLogo,
+.dark-mode1 .header .btn{
+    color: white !important;
+}
+
+
+.dark-mode .video-page {
+    background-color: black;
+    color: white !important;
+}
+.dark-mode .video-section{
+    color: white !important;
+}
+
+.dark-mode .video-stats button {
+    color: white ;
+}
+
+.dark-mode .tags-list{
+    color: #2c2c2e !important;
+}
+.dark-mode .btn{
+    color: white ;
+}
+.dark-mode .comments-section {
+    background-color: black !important;
+}
+
+.dark-mode .add-comment textarea {
+    border: 0px solid black !important; 
+    background-color: white !important; 
+    color: black; 
+}
+
+.dark-mode .comment-body {
+    background-color: #000 !important; 
+}
+
+.dark-mode  .comment-body .comment-actions button {
+    background: black !important;
+    color: white !important; 
+}
+
+.dark-mode .recommendations-section {
+     background-color: #0f0f0f; 
+     color: white; 
+}
+
+ .dark-mode .recommended-video-info {
+    color: #aaa !important; 
+ }
+
+ .dark-mode .btn-link{
+    color: white !important;
+ }
+
+.dark-mode1 .container,
+.dark-mode1 .container1 {
+    background-color: #2a2a2a39;
+    color: white;
+}
+
+.dark-mode1 .btn-outline-danger {
+    color: white !important;
+}
+
+.dark-mode1 .btn-outline-dange:hover {
+    background-color: white !important
+}
+
+
+
+.dark-mode .fixed-top,
+.dark-mode {
+    background-color: black !important;
+    /* color: #ffffff; */
+}
+
+.dark-mode .btn-action:hover {
+    color: #d83636 !important;
+}
+
+.dark-mode .btn-action {
+    border: none;
+    color: white !important;
+}
+
+.dark-mode .search-box {
+    background-color: rgba(37, 35, 35, 0.559);
+}
+
+.dark-mode .search-button {
+    background-color: #2c2c2e;
+    color: white;
+}
+
+/* .btn-action:hover{
+    color: #ff6b6b;
+} */
+.dark-mode .search-input,
+.dark-mode .menu-expand-btn {
+    color: white !important;
+}
+
+.dark-mode .menu-expand-btn:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.dark-mode .card {
+    background-color: black;
+}
+
+.dark-mode .card-text,
+.dark-mode .card-body {
+    color: #ffffff;
+}
+
+.dark-mode .nav-link {
+    color: #ffffff;
+}
+
+.dark-mode .nav-link:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.dark-mode .modal-title,
+.dark-mode .modal-content {
+    border: none;
+    background-color: #202021;
+    color: #ffffff;
+}
+
+.dark-mode modal-body {
+    background-color: #202021;
+    border: none;
+}
+
+.dark-mode .btn-close {
+    color: #ffffff;
+}
+
+.dark-mode .offcanvas {
+    background-color: black;
+    color: white !important;
+}
+
+.dark-mode .dropdown-menu {
+    background-color: black;
+
+}
+
+.dark-mode .dropdown-menu .dropdown-item {
+    color: white !important;
+}
+
+.dark-mode .dropdown-menu .dropdown-item:hover {
+    color: #202021 !important;
+}
+
+.dark-mode .modal-footer,
+.dark-mode .modal-header,
+.dark-mode .form-select,
+.dark-mode .form-control {
+    background-color: #1c1c1e;
+    color: white;
+    border-color: #202021 !important;
+}
+
+.dark-mode .nav-link {
+    color: white !important;
+}
+
+.dark-mode .nav-item .bi {
+    color: #d83636;
+}
+
+.dark-mode .nav-item .dropdown .bi {
+    color: white !important;
+}
+
+
+  .container-fluid {
+    min-height: 100vh; /* This ensures that the container fills at least the full height of the viewport */
+  }
+  
+  /* Ensure the background color covers the entire area in dark mode */
+  .dark-mode {
+    background-color: #121212; /* Adjust the color as per your dark theme */
+  }
+
+  .dark-mode .channel-banner,
+  .dark-mode .user-info,    
+.dark-mode .channel-nav a,
+.dark-mode .video-info h3,
+.dark-mode .video-info p,
+.dark-mode .video-info span {
+    color: white;
+}
+
+/* Optionally, you can adjust the color of other elements if needed */
+.dark-mode .subscribe-btn {
+    background-color: #cc0000;
+    color: white;
+}
+
+/* Ensure any specific text that should remain black is handled */
+.dark-mode .channel-nav a.active {
+    color: black; /* Example of overriding the color for active links */
+}
+/* 
+   .dark-mode .nav-item{
+    text: white !important;
+    color: white !important;
+  }   */

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UTUBE</string>
+    <string name="menu_button_description">Menu</string>
+    <string name="sport">Sport</string>
+    <string name="news">News</string>
+    <string name="cinema">Cinema</string>
+    <string name="gaming">Gaming</string>
+    <string-array name="video_categories">
+        <item>Sport</item>
+        <item>News</item>
+        <item>Cinema</item>
+        <item>Gaming</item>
+    </string-array>
+    <string name="pause">Pause</string>
+    <string name="fullscreen">Fullscreen</string>
+</resources>

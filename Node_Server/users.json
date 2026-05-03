@@ -1,0 +1,38 @@
+[
+    {
+        "username": "Author 1",
+        "password": "Author 1",
+        "firstName": "author",
+        "lastName": "1",
+        "date": "1972-09-01",
+        "email": "author1@example.com",
+        "profilePic": "/media/Profile_Images/pro_1.webp"
+    },
+    {
+        "username": "Author 2",
+        "password": "Author 2",
+        "firstName": "author",
+        "lastName": "2",
+        "date": "1977-05-25",
+        "email": "author2@example.com",
+        "profilePic": "/media/Profile_Images/pro_2.webp"
+    },
+    {
+        "username": "Author 3",
+        "password": "Author 3",
+        "firstName": "author",
+        "lastName": "3",
+        "date": "1976-01-26",
+        "email": "author3@example.com",
+        "profilePic": "/media/Profile_Images/pro_3.webp"
+    },
+    {
+        "username": "Author 4",
+        "password": "Author 4",
+        "firstName": "author",
+        "lastName": "4",
+        "date": "1988-04-14",
+        "email": "author4@example.com",
+        "profilePic": "/media/Profile_Images/pro_4.webp"
+    }
+]

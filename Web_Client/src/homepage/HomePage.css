@@ -1,0 +1,81 @@
+ .fixed-top {
+  position: sticky;
+  } 
+  
+.btn-action ,
+.bi-person-add {
+    font-size: 1.5rem ; 
+   }
+
+.utbLogo{
+  font-size: 2rem !important;
+  border: none;
+}
+
+.btn-action:hover{
+    color: #ff6b6b;
+}
+
+.menu-expand-btn {
+  font-size: 1.8em !important;
+  margin-top: 9px;
+  margin-left: 5px; 
+  border: none;
+  background-color: transparent;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center; 
+  justify-content: center; 
+  transition: background-color 0.3s;
+}
+
+.menu-expand-btn:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+
+/* .dropdown-item{
+  font-size: medium;
+} */
+
+.btn-user-login{
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 2px;
+  overflow: hidden !important;
+  display: inline-block;
+} 
+
+.btn-action{
+  border: none;
+}
+
+.bi-brightness-high-fill{
+  font-size: 1.5rem !important;
+  color: white !important;
+
+}
+
+.bi-moon-stars-fill{
+  font-size: 1.5rem !important;
+  color: black !important;
+}
+
+.tags-list button{
+  border-radius: 30px !important;
+  border: none;
+  width: 150px;
+}
+/* Extend dark mode to full height */
+.container-fluid {
+  min-height: 100vh; /* This ensures that the container fills at least the full height of the viewport */
+}
+
+/* Ensure the background color covers the entire area in dark mode */
+.dark-mode {
+  background-color: #121212; /* Adjust the color as per your dark theme */
+}

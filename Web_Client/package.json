@@ -1,0 +1,41 @@
+{
+  "name": "utube",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.7.2",
+    "express": "^4.19.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.23.1",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "node --max-old-space-size=4096 node_modules/react-scripts/scripts/start.js",
+    "build": "node --max-old-space-size=4096 node_modules/react-scripts/scripts/build.js",
+    "test": "node --max-old-space-size=4096 node_modules/react-scripts/scripts/test.js",
+    "eject": "node --max-old-space-size=4096 node_modules/react-scripts/scripts/eject.js"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

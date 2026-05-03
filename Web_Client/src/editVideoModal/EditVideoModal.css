@@ -1,0 +1,18 @@
+.modal-body img{
+    width: 50%;
+    height: 100px;
+}       
+
+.current-video-clip {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    margin-top: 10px;
+  }
+  
+  .video-prev {
+    display: block;
+    margin-bottom: 5px;
+  }
+
+ 

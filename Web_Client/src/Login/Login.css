@@ -1,0 +1,69 @@
+.container1{
+  display: flex;
+  align-items: flex-start ;
+  justify-content: space-between;
+  width: 100%;
+  height: 50% !important;
+  max-width: 900px;
+  background-color: white;
+  border-radius: 28px;
+  padding: 50px;
+}
+
+.first {
+  margin-bottom: 20px;
+  padding-top: 20px;
+}
+
+.second{
+  display: flex;
+  justify-content:space-between;
+  align-content: space-between;
+  margin-top: 20px;
+}
+
+.second1{
+  display: flex;
+  justify-content:center;
+  align-content: space-between;
+  margin-top: 0px;
+}
+
+.form2 {
+  width: 100%;
+  max-width: 400px;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f4f9 ;
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+  display: flex;
+  flex-direction: column;
+}
+
+.login {
+  display: flex;
+  flex-direction: row-reverse;
+  align-items:end ;
+  justify-content: space-between;
+}
+
+.btn {
+  margin-left: 25px;
+  border-radius: 20px ;
+}
+
+.error {
+  color: red;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  flex-direction: column;
+}
