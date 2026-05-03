@@ -1,17 +1,17 @@
-## UTube web client side
+## YouTube web client side
 Full Project Details
-For full details on the entire UTube project, including the backend servers and Android app, please skip this README.md and refer to the wiki pages located in the NodeJs_Server branch under the wiki folder.
+For full details on the entire YouTube project, including the backend servers and Android app, please skip this README.md and refer to the wiki pages located in the NodeJs_Server branch under the wiki folder.
 
 This branch is intended only for editing the design or adding features to the web app. To launch the full project, the server-side configuration is necessary, and the details for setting it up are found in the wiki.
 
 ## Overview
-Creating the UTube web client was a rewarding and challenging experience. Our group collaborated by brainstorming ideas and sketching out designs. Avraham worked on the home page and video management features, while Shimon focused on login and signup screens. We overcame various debugging issues and learned a lot about teamwork throughout the process.
+Creating the YouTube web client was a rewarding and challenging experience. Our group collaborated by brainstorming ideas and sketching out designs. Avraham worked on the home page and video management features, while Shimon focused on login and signup screens. We overcame various debugging issues and learned a lot about teamwork throughout the process.
 
 1. **Clone the Repository**
    ```bash
-    git clone https://github.com/Yedpel/task4_UTube.git
-    cd task4_UTube
-    cd web_react
+   git clone https://github.com/shimonr2347/YouTube.git
+   cd YouTube_Portfolio
+   cd Web_Client
 
 2. **Run the Application**
 Use the following command to run the app in development mode:
