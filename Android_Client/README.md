@@ -1,4 +1,4 @@
-# Yo YouTube_Android
+# YouTube_Android
 
 Welcome to the YouTube Android branch, a key component of theYo YouTube app developed as part of an Advanced System Programming course at Bar-Ilan University. This repository holds the server-side code that powers ourYo YouTube application, which simulates a simplified version of a video streaming service where users can watch, like, and comment on videos.
 
