@@ -1,9 +1,9 @@
 # YouTube_Android
 
-Welcome to the YouTube Android branch, a key component of theYo YouTube app developed as part of an Advanced System Programming course at Bar-Ilan University. This repository holds the server-side code that powers ourYo YouTube application, which simulates a simplified version of a video streaming service where users can watch, like, and comment on videos.
+Welcome to the YouTube Android branch, a key component of the YouTube app developed as part of an Advanced System Programming course at Bar-Ilan University. This repository holds the server-side code that powers our YouTube application, which simulates a simplified version of a video streaming service where users can watch, like, and comment on videos.
 
 ## Full Project Details
-For full details on the entireYo YouTube project, including the Android app, React web app, and C++ server, please skip this README.md and refer to the wiki pages located inside the nodeJS_server branch's wiki folder or on the wiki page of the entire repository.
+For full details on the entire YouTube project, including the Android app, React web app, and C++ server, please skip this README.md and refer to the wiki pages located inside the nodeJS_server branch's wiki folder or on the wiki page of the entire repository.
 
 ## Getting Started
 
@@ -16,7 +16,7 @@ development and testing purposes. Follow these simple steps to get started.
 
 1. Ensure you have Android Studio installed on your computer. If not, download and install it
    from [Android Studio's official website](https://developer.android.com/studio).
-2. Make sure you have theYo YouTube-Server barnch server_task3 set up and running. If not, follow the
+2. Make sure you have the YouTube-Server set up and running. If not, follow the
    instructions in the server's README to set it up.
 
 ### Setting up the Project
