@@ -1,7 +1,7 @@
-# UTube - Video Sharing Platform
+# YouTube - Video Sharing Platform
 
 ## Project Overview
-UTube is a full-featured video-sharing application modeled after YouTube, developed as part of an Advanced System Programming course at Bar-Ilan University. The project features:
+YouTube is a full-featured video-sharing application modeled after YouTube, developed as part of an Advanced System Programming course at Bar-Ilan University. The project features:
 
 - Dual-server architecture with a primary Node.js server for core functionality and a C++ server for intelligent content recommendations
 - Fully developed client-side applications for web (React) and Android platforms
@@ -15,19 +15,19 @@ This project is split into 4 main branches:
 ## Wiki - Full Documentation
 **For complete details, explanations, screenshots, and usage instructions, please visit the [Wiki tab](https://github.com/Yedpel/UTube-VideoPlatform/wiki) in the toolbar at the top of this GitHub page.**
 
-The wiki contains comprehensive information about all components of the UTube project, including setup guides, API documentation, and user manuals.
+The wiki contains comprehensive information about all components of the YouTube project, including setup guides, API documentation, and user manuals.
 
-This branch contains the Node.js server component of the UTube project. Below, you'll find a brief overview and setup instructions specific to this component.
+This branch contains the Node.js server component of the YouTube project. Below, you'll find a brief overview and setup instructions specific to this component.
 
 ---
 
-# UTube Node.js Server
+# YouTube Node.js Server
 
 ## Overview
-Welcome to the UTube Node.js Server branch, a key component of the UTube app developed as part of an Advanced System Programming course at Bar-Ilan University. This repository holds the server-side code that powers our UTube application, which simulates a simplified version of a video streaming service where users can watch, like, and comment on videos.
+Welcome to the YouTube Node.js Server branch, a key component of the YouTube app developed as part of an Advanced System Programming course at Bar-Ilan University. This repository holds the server-side code that powers our YouTube application, which simulates a simplified version of a video streaming service where users can watch, like, and comment on videos.
 
 ## Full Project Details
-For full details on the entire UTube project, including the Android app, React web app, and C++ server, please skip this README.md and refer to the wiki pages located inside the nodeJS_server branch's wiki folder or on the wiki page of the entire repository.
+For full details on the entire YouTube project, including the Android app, React web app, and C++ server, please skip this README.md and refer to the wiki pages located inside the nodeJS_server branch's wiki folder or on the wiki page of the entire repository.
 
 ### Features
 The server handles a variety of functions including:
@@ -42,9 +42,9 @@ To set up and run the server locally, follow these steps:
 1. **Clone the repository**
    First, clone the repository and switch to the correct branch:
    ```bash
-   git clone https://github.com/[username]/task4_UTube.git
-   cd task4_UTube
-   git checkout NodeJs_Server
+   git clone https://github.com/shimonr2347/YouTube.git
+   cd YouTube_Portfolio
+   cd NodeJs_Server
 3. **Install dependencies**
 Ensure that you have Node.js installed on your system. Then run:
    ```bash
